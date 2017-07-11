@@ -20,5 +20,8 @@
 		"node": ">=6"
 	},
 	"dependencies": {
+		"add-event-listener": "0.0.1",
+		"hyperscript": "^2.0.2",
+		"virtual-dom": "^2.1.1"
 	}
 }
