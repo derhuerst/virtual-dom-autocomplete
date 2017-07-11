@@ -1,0 +1,24 @@
+{
+	"name": "virtual-dom-autocomplete",
+	"description": "A tiny virtual-dom autocomplete UI component.",
+	"version": "0.1.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"autocomplete",
+		"completion",
+		"input"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/virtual-dom-autocomplete",
+	"repository": "derhuerst/virtual-dom-autocomplete",
+	"bugs": "https://github.com/derhuerst/virtual-dom-autocomplete/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	},
+	"dependencies": {
+	}
+}
